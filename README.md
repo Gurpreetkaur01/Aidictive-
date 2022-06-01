@@ -1,0 +1,2 @@
+# Aidictive-
+a digital activity platform that uses gamification to inspire kids aged 5-8 to put down their devices and play in the real world. Full of simple, fun activities that any kid can do around the house, KIDICTED helps develop the whole kid by inviting them to PLAY, CREATE, IMAGINE, DISCOVER and CONNECT. The more real world activities that kids play, the more points they earn to unlock rewards for their avatar and game play.
